@@ -12,7 +12,7 @@ let package = Package(
    targets: [
       .binaryTarget(
          name: "Shared",
-         url: "https://github.com/pxr-tech/MultiplatformExperiment-spm/releases/download/0.0.1/Shared.xcframework.zip",
+         url: "https://github.com/pxr-tech/MultiplatformExperiment-spm/releases/download/v0.0.1/Shared.xcframework.zip",
          checksum:"9072777ea0070458ebbbf20e6beb7ff2f169a730c315581d13c44069dc5a3a42")
    ]
 )
