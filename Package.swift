@@ -12,7 +12,7 @@ let package = Package(
    targets: [
       .binaryTarget(
          name: "Shared",
-         url: "https://github.com/pxr-tech/MultiplatformExperiment-spm/releases/download/v0.0.1/Shared.xcframework.zip",
-         checksum:"9072777ea0070458ebbbf20e6beb7ff2f169a730c315581d13c44069dc5a3a42")
+         url: "https://git.digitalenterprises.nl/MustaphaQadri/ios-next-openapi-package/-/raw/main/sharedR.xcframework.zip?inline=false",
+         checksum:"7dc8c5d5c668af9015237b4cee8f33c8f5aaa94bc683f724dadddcfa4dda6c08")
    ]
 )
